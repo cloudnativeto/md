@@ -41,7 +41,7 @@ export default {
     colorOption: [
         {
             label: "经典蓝",
-            value: "rgba(15, 76, 129, 1)",
+            value: "rgba(64, 158, 255, 1)",
             desc: "最新流行",
         },
         {
