@@ -13,7 +13,7 @@
         <div style="text-align: center; margin-top: 10px">
             <p>扫码关注云原生社区的公众号，获取云原生最新资讯！</p>
             <img
-                src=""https://cloudnative.to/images/wechat-qrcode.png
+                src="https://cloudnative.to/images/wechat-qrcode.png"
                 style="width: 40%; display: block; margin: 20px auto 10px"
             />
         </div>
