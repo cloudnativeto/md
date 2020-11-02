@@ -45,13 +45,13 @@ export default {
             desc: "最新流行",
         },
         {
-            label: "翡翠绿",
-            value: "rgba(0, 152, 116, 1)",
-            desc: "优雅清新",
+            label: "魅力紫",
+            value: "rgba(234,39,168,1)",
+            desc: "清新脱俗,
         },
         {
-            label: "活力橘",
-            value: "rgba(250, 81, 81, 1)",
+            label: "活力橙",
+            value: "rgba(240,86,35,1)",
             desc: "热情活泼",
         },
     ],
