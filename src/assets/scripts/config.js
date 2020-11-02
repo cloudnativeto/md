@@ -47,7 +47,7 @@ export default {
         {
             label: "魅力紫",
             value: "rgba(234,39,168,1)",
-            desc: "清新脱俗,
+            desc: "清新脱俗",
         },
         {
             label: "活力橙",
